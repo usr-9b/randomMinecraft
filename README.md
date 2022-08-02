@@ -23,5 +23,7 @@ Make minecraft 1.19 more randomly
        - mcr
 
 ## Example
- YourNickname executed command: /rmc BLOCK_PLACE BLOCK_BREAK
+```
+YourNickname executed command: /rmc BLOCK_PLACE BLOCK_BREAK
     ^ Command turn on random placing block and random block drops 
+```
