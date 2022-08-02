@@ -1,0 +1,17 @@
+name: RandomMinecraft
+version: '${project.version}'
+main: dev.ninebytes.randomminecraft.Main
+api-version: 1.19
+prefix: RMC
+authors: [ ninebytes ]
+description: Make mincraft more randomly
+website: https://github.com/usr-9b
+commands:
+  rmc:
+    usage: /rmc [types]
+    description: Enable random minecraft elements
+    permission: MinecraftRandom.random
+    aliases:
+      - random
+      - randomize
+      - mcr
