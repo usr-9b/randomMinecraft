@@ -14,13 +14,13 @@ Make minecraft 1.19 more randomly
 
 ## Command
  - rmc:
-    usage: /rmc [types]
-    description: Enable random minecraft module/s
-    permission: MinecraftRandom.random
-    aliases:
-      - random
-      - randomize
-      - mcr
+     - usage: /rmc [types]
+     - description: Enable random minecraft module/s
+     - permission: MinecraftRandom.random
+     - aliases:
+       - random
+       - randomize
+       - mcr
 
 ## Example
  YourNickname executed command: /rmc BLOCK_PLACE BLOCK_BREAK
