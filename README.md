@@ -6,11 +6,11 @@ Make minecraft 1.19 more randomly
  - Random look
 
 ## Types
- - EVERYTHING: Turn everything ON
- - BLOCK_PLACE: Replace placed block on random
- - BLOCK_BREAK: Replace block drops on random
- - LOOK_AT_BLOCK: Replace current block you looking on random
- - RANDOM_MOB: Replace spawn mob on random
+ - <b>EVERYTHING:</b> Turn everything ON
+ - <b>BLOCK_PLACE:</b> Replace placed block on random
+ - <b>BLOCK_BREAK:</b> Replace block drops on random
+ - <b>LOOK_AT_BLOCK:</b> Replace current block you looking on random
+ - <b>RANDOM_MOB:</b> Replace spawn mob on random
 
 ## Command
  - rmc:
